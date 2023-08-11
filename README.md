@@ -1,4 +1,4 @@
-# -Bank-marketing-campaign-predict-Customer-Segmentation
+# Bank-marketing-campaign-predict-Customer-Segmentation
 ### The target from this project is to build an intelligent system to help marketing 
 ### team in bank to predict the client that will accept campaign and make deposit 
 ### and then make segmentation for the clients.

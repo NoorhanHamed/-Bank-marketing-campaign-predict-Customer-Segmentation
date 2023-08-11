@@ -2,6 +2,10 @@
 ### The target from this project is to build an intelligent system to help marketing 
 ### team in bank to predict the client that will accept campaign and make deposit 
 ### and then make segmentation for the clients.
+![1](https://github.com/NoorhanHamed/-Bank-marketing-campaign-predict-Customer-Segmentation/assets/113361240/268dba7a-21ce-409b-bcb0-718db0d8142c)
+![2](https://github.com/NoorhanHamed/-Bank-marketing-campaign-predict-Customer-Segmentation/assets/113361240/571f606a-0a8f-4430-aeb1-97386a589c52)
+![3](https://github.com/NoorhanHamed/-Bank-marketing-campaign-predict-Customer-Segmentation/assets/113361240/432c9577-2309-41b4-9499-ce5db302f3c7)
+
 ### Data Processing, EDA, Feature Engineering and Building Data Pipeline. Building 
 ### the prediction model & Algorithm Evaluation. Model Tuning & Deployment with 
 ### steamlit and heroku
